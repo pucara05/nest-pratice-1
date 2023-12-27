@@ -8,4 +8,4 @@
     "database": "bd-nest-1",
     "entities": ["dist/**/*.entity{.ts,.js}"],
     "synchronize": true
-  }
+}
